@@ -1,4 +1,6 @@
 # CARA RUN
+
+## Kalo belum ada node js nya : https://nodejs.org/en/download
 ## clone repo
 ```
 git clone https://github.com/0xSanji/baby-to-xion.git
